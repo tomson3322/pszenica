@@ -1,0 +1,92 @@
+body{
+	background-color:#DED709;
+}
+
+header{
+	width:70%;
+	background-color:#B7D303;
+	text-align:center;
+	font-size:30px;
+	height:5%;
+	float:left;
+}
+main{
+	width:70%;
+	background-color:#C5E018;
+	font-size:20px;
+	height:25%;
+	float:left;
+}
+
+#logo{
+	width:30%;
+	height:30%;
+}
+
+#menu{
+	text-align:right;
+	background-color:#B7D303;
+	font-size:40px;
+	width:100%;
+	height:25%;
+}
+
+#menu1{
+	text-align:left;
+	background-color:#B7D303;
+	font-size:40px;
+	width:100%;
+	height:30%;
+	clear:both;
+}
+
+
+a:link{
+	text-decoration:none;
+}
+
+#odmiany{
+	background-color:#C5E018;
+	font-size:20px;
+	width:70%;
+
+}
+
+#jakosc{
+	background-color:#C5E018;
+	font-size:20px;
+	width:70%;
+
+}
+
+#uprawa{
+	background-color:#C5E018;
+	width:40%;
+	float:left;
+	font-size:30px;
+}
+
+#sianie{
+	background-color:#C5E018;
+	width:40%;
+	float:left;
+	font-size:40px;
+}
+
+#nawoz{
+	background-color:#C5E018;
+	width:100%;
+	float:left;
+	font-size:25px;
+	margin-bottom:10px;
+}
+
+table,td{
+	border:1px solid black;
+	background-color:#C5E018;
+}
+
+tr:hover{
+	background-color:blue;
+	color:#3A1FE7;
+}
